@@ -1,4 +1,3 @@
-ht---
 permalink: /
 title: "Copper Basin Exploration Science (CuBES)"
 author_profile: true
