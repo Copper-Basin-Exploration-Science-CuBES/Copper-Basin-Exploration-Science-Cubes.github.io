@@ -22,4 +22,5 @@ Work Packages
 
 ## Research group
 | ------------------------- | ------------------------- | ------------------------- |
-|<img width="256" src="images/profiles/ritaK.png"><br>Rita Kounoudis<br>Posdoctoral Research Associate in Seismology|
+|<img width="256" src="images/profiles/ritaK.png"><br>[Rita Kounoudis](https://rita-seismo.github.io)<br>Postdoctoral Research Associate in Seismology|<img width="256" src="images/profiles/tmc.png"><br>[Tobermory Mackay-Champion](https://tmackay-champion.github.io))<br>Postdoctoral Research Associate in Seismology|
+{: style="font-size: 95%; text-align: center;"}
