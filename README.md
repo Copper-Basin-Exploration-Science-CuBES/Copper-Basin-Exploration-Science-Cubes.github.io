@@ -1,1 +1,1 @@
-This is the personal academic website of Tobermory Mackay-Champion
+This is the GitHub repository of the CuBES website.
