@@ -19,3 +19,7 @@ Work Packages
 - Mineral Systems (S. Roberts)
 - Experimental and Numerical Flow Modelling (M. Jackson)
 - Exploration Tools (J. Wilkinson)
+
+## Research group
+| ------------------------- | ------------------------- | ------------------------- |
+|<img width="256" src="images/profiles/ritaK.png"><br>Rita Kounoudis<br>Posdoctoral Research Associate in Seismology|
