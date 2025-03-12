@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/outreach-1
 venue: "XX"
-date: XX-XX-XX
+date: 2022-10-01
 location: "City, Country"
 ---
 
