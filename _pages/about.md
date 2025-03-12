@@ -21,6 +21,19 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
 
 ---
 ## Research group
-| <img width="256" src="images/profiles/ritaK.png"><br>[Rita Kounoudis](https://rita-seismo.github.io)<br>Postdoctoral Research Associate in Seismology | <img width="256" src="images/profiles/tmc.png"><br>[Tobermory Mackay-Champion](https://tmackay-champion.github.io)<br>Postdoctoral Research Associate in Seismology |
-|-------------------------|-------------------------|
+<table style="width:100%; text-align:center; font-size: 95%;">
+  <tr>
+    <td>
+      <img width="256" src="images/profiles/ritaK.png"><br>
+      <a href="https://rita-seismo.github.io">Rita Kounoudis</a><br>
+      Postdoctoral Research Associate in Seismology
+    </td>
+    <td>
+      <img width="256" src="images/profiles/tmc.png"><br>
+      <a href="https://tmackay-champion.github.io">Tobermory Mackay-Champion</a><br>
+      Postdoctoral Research Associate in Seismology
+    </td>
+  </tr>
+</table>
+
 
