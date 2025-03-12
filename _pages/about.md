@@ -17,5 +17,5 @@ Work Packages
 ======
 - Basin System (M. C. Daly)
 - Mineral Systems (S. Roberts)
-- Experimental and Numerical Flow Mod-elling (M. Jackson)
+- Experimental and Numerical Flow Modelling (M. Jackson)
 - Exploration Tools (J. Wilkinson)
