@@ -15,7 +15,7 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
 ---
 ## Work Packages
 - Basin System (M. C. Daly)
-- Mineral Systems (S. Roberts)
+- Mineral Systems (S. Roberts, D. Holwell)
 - Experimental and Numerical Flow Modelling (M. Jackson)
 - Exploration Tools (J. Wilkinson)
 
