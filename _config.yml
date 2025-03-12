@@ -9,25 +9,25 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "TMC"
+title                    : "CuBES"
 title_separator          : "-"
-name                     : &name "Tobermory Mackay-Champion"
-description              : &description "Passive seismologist, petrologist, field geologist"
-url                      : https://tmackay-champion.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Copper Basin Exploration Science (CuBES)"
+description              : &description "Multi-instituation collaboration to understand sedimentary copper"
+url                      : https://CuBES-Zambia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TMackay-Champion/TMackay-Champion.github.io"
+repository               : "CuBES-Zambia/CuBES-Zambia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Tobermory Mackay-Champion"
+  avatar           : "profile.png"
+  name             : "CuBES"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Associate in Seismology, University of Oxford"
+  bio              : "Multi-instituation collaboration to understand sedimentary copper"
   location         : #"Oxford"
-  employer         : "University of Oxford"
+  employer         : #"University of Oxford"
   uri              : # URL
   email            : "tmackaychampion@gmail.com" 
 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6132-3327"
+  orcid            : #"https://orcid.org/0000-0002-6132-3327"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "TMackay-Champion"
+  github           : #"TMackay-Champion"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
