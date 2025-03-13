@@ -33,7 +33,13 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
       <a href="https://tmackay-champion.github.io">Tobermory Mackay-Champion</a><br>
       Seismologist and petrologist (PDRA), University of Oxford
     </td>
+    <td>
+      <img width="256" src="images/profiles/MartinP.jpg"><br>
+      Martin Purkiss<br>
+      Basin Analyst, Ivanhoe Mines
+    </td>
   </tr>
 </table>
+
 
 
