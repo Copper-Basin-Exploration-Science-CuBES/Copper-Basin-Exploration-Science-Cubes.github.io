@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-Purkiss
 excerpt: '------'
 date: 2025-03-13
-authors: 'M Purkiss et al.'
+authors: 'M Purkiss'
 venue: 'Journal of African Earth Sciences'
 citation: '-----'
 ---
