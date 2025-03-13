@@ -20,7 +20,7 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
 - Exploration Tools (J. Wilkinson)
 
 ---
-## Research group
+## Research Team
 <table style="width:100%; text-align:center; font-size: 95%;">
   <tr>
     <td>
