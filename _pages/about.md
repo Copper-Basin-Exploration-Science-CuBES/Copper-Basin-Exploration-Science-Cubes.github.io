@@ -26,12 +26,12 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
     <td>
       <img width="256" src="images/profiles/RitaK.png"><br>
       <a href="https://rita-seismo.github.io">Rita Kounoudis</a><br>
-      Seismologist (PDRA), University of Oxford
+      Seismologist, University of Oxford (PDRA)
     </td>
     <td>
       <img width="256" src="images/profiles/TMC.png"><br>
       <a href="https://tmackay-champion.github.io">Tobermory Mackay-Champion</a><br>
-      Seismologist and petrologist (PDRA), University of Oxford
+      Seismologist & Petrologist, University of Oxford (PDRA)
     </td>
     <td>
       <img width="256" src="images/profiles/MPurkiss.png"><br>
@@ -43,7 +43,7 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
     <td>
       <img width="256" src="images/profiles/MDaly.png"><br>
       <a href="https://michaelcdaly.weebly.com/">Michael C Daly</a><br>
-      Visting Professor, University of Oxford
+      Geologist, University of Oxford (Prof.)
     </td>
   </tr>
 </table>
