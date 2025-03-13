@@ -36,10 +36,16 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
     <td>
       <img width="256" src="images/profiles/MartinP.jpg"><br>
       Martin Purkiss<br>
-      Basin Analyst, Ivanhoe Mines
+      Basin Analyst, Ivanhoe Mines
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="256" src="images/profiles/MDaly.png"><br>
+      <a href="https://michaelcdaly.weebly.com/">Michael C Daly</a><br>
+      Visting Professor, University of Oxford
     </td>
   </tr>
 </table>
-
 
 
