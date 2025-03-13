@@ -3,8 +3,8 @@ permalink: /
 title: "Copper Basin Exploration Science (CuBES)"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /datasets.md/
+  - /datasets.html
 ---
 
 ---
