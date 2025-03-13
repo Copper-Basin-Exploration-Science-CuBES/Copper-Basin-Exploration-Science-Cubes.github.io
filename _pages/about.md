@@ -35,7 +35,7 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
     </td>
     <td>
       <img width="256" src="images/profiles/MartinP.jpg"><br>
-      Martin Purkiss<br>
+      <a href="https://uk.linkedin.com/in/martin-purkiss">Martin Purkiss</a><br>
       Basin Analyst, Ivanhoe Mines
     </td>
   </tr>
