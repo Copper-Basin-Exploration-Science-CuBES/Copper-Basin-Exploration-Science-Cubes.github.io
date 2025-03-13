@@ -24,19 +24,19 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
 <table style="width:100%; text-align:center; font-size: 95%;">
   <tr>
     <td>
-      <img width="256" height="256" src="images/profiles/RitaK.png"><br>
+      <img src="images/profiles/RitaK.png" alt="Rita Kounoudis" width="256" height="256"><br>
       <a href="https://rita-seismo.github.io">Rita Kounoudis</a><br>
       Seismologist<br>
       PDRA, Uni. of Oxford
     </td>
     <td>
-      <img width="256" height="256" src="images/profiles/TMC.png"><br>
+      <img src="images/profiles/TMC.png" alt="Tobermory Mackay-Champion" width="256" height="256"><br>
       <a href="https://tmackay-champion.github.io">Tobermory Mackay-Champion</a><br>
       Seismologist & Petrologist<br>
       PDRA, Uni. of Oxford
     </td>
     <td>
-      <img width="256" height="256" src="images/profiles/MPurkiss.png"><br>
+      <img src="images/profiles/MPurkiss.png" alt="Martin Purkiss" width="256" height="256"><br>
       <a href="https://uk.linkedin.com/in/martin-purkiss">Martin Purkiss</a><br>
       Basin Analyst<br>
       Ivanhoe Mines
@@ -44,12 +44,12 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
   </tr>
   <tr>
     <td>
-      <img width="256" height="256" src="images/profiles/MDaly.png"><br>
+      <img src="images/profiles/MDaly.png" alt="Michael C Daly" width="256" height="256"><br>
       <a href="https://michaelcdaly.weebly.com/">Michael C Daly</a><br>
       Geologist<br>
       Visiting Professor, Uni. of Oxford
     </td>
-    <td></td> <!-- Empty cell for alignment -->
-    <td></td> <!-- Empty cell for alignment -->
+    <td></td>
+    <td></td>
   </tr>
 </table>
