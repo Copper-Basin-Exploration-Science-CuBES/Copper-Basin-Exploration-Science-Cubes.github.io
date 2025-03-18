@@ -36,20 +36,26 @@ Our particular focus is to develop and integrate mineral and petroleum systems a
       PDRA, University of Oxford
     </td>
     <td>
+       <img src="images/profiles/MDaly.png" alt="Michael C Daly" width="256" height="256"><br>
+      <a href="https://michaelcdaly.weebly.com/">Michael C Daly</a><br>
+      Geologist<br>
+      Visiting Professor, University of Oxford
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="images/profiles/MPurkiss.png" alt="Martin Purkiss" width="256" height="256"><br>
       <a href="https://uk.linkedin.com/in/martin-purkiss">Martin Purkiss</a><br>
       Basin Analyst<br>
       Ivanhoe Mines
     </td>
-  </tr>
-  <tr>
     <td>
-      <img src="images/profiles/MDaly.png" alt="Michael C Daly" width="256" height="256"><br>
-      <a href="https://michaelcdaly.weebly.com/">Michael C Daly</a><br>
-      Geologist<br>
-      Visiting Professor, University of Oxford
+      <img src="images/profiles/DHolwell.jpg" alt="David Holwell" width="256" height="256"><br>
+      <a href="https://le.ac.uk/people/david-holwell">David Holwell</a><br>
+      Economic Geologist<br>
+      Professor, University of Leicester
     </td>
-    <td></td>
     <td></td>
   </tr>
 </table>
+
